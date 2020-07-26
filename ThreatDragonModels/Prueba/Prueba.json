@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Prueba",
+    "owner": "geinner Tucto",
+    "description": "aplicación web para comprar productos de seguros de soat, integración con VISA para la pasarela de pagos."
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "Lenard Vega"
+  }
+}
